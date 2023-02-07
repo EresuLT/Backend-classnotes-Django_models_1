@@ -8,7 +8,6 @@
     - Understanding Django Models and ORM
     - Create DB tables via django models
 
-
   - Topics to be Covered:
 
     - Django Intro Recap
